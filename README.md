@@ -8,3 +8,4 @@ https://github.com/ozel/DIY_particle_detector/wiki
 This was used for the alpha detector in the project.
 <img width="1512" height="1134" alt="image" src="https://github.com/user-attachments/assets/bc675eca-3937-4451-ae52-24fc9c776936" />
 <img width="1234" height="1646" alt="image" src="https://github.com/user-attachments/assets/6da316cc-08af-46dd-ae23-627be360e26e" />
+<img width="3024" height="1360" alt="image" src="https://github.com/user-attachments/assets/60c1c105-83a3-4f57-982a-0d70ec7a3004" />
